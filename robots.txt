@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mountbrydgesductcleaning.ca/sitemap-index.xml
